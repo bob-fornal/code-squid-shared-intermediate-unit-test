@@ -6,7 +6,7 @@ const MOCK_USERS = [
   { username: 'jennifer', startDate: '2022-02-01T12:00:00.000Z' },
   { username: 'patrick', startDate: '2022-03-01T12:00:00.000Z' },
   { username: 'anne', startDate: '2022-04-01T12:00:00.000Z' }
-]
+];
 
 describe('API Service', () => {
   let service;
